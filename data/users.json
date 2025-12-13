@@ -1,0 +1,45 @@
+{
+  "users" : [
+        {
+            "id" : "1",
+            "name" : "Jinney",
+            "surname" : "Mile",
+            "email" : "jinneymile13@gmail.com",
+            "issuedBook" : "2",
+            "issuedDate" : "01/07/2025",
+            "returnDate" : "30/07/2025",
+            "subscriptionType" : "basic",
+            "subscriptionDate" : "03/07/2025"
+        },
+        {
+            "id" : "2",
+            "name" : "Nimmi",
+            "surname" : "Roy",
+            "email" : "nimmiroy77@gmail.com",
+            "issuedBook" : "4",
+            "issuedDate" : "05/07/2025",
+            "returnDate" : "15/08/2025",
+            "subscriptionType" : "standard",
+            "subscriptionDate" : "05/07/2025"
+        },
+        {
+            "id" : "3",
+            "name" : "Cook",
+            "surname" : "John",
+            "email" : "cookjohn56@gmail.com",
+            "issuedBook" : "3",
+            "issuedDate" : "20/04/2025",
+            "returnDate" : "20/05/2025",
+            "subscriptionType" : "basic",
+            "subscriptionDate" : "20/07/2025"
+        },
+        {
+            "id" : "4",
+            "name" : "Cook",
+            "surname" : "John",
+            "email" : "cookjohn56@gmail.com",
+            "subscriptionType" : "Premium",
+            "subscriptionDate" : "25/10/2025"
+        }
+    ]
+}

@@ -1,0 +1,40 @@
+{
+    "books": [
+        {
+            "id" : "1",
+            "name" : "The Habbit",
+            "author" : "J.R.R Tolkien",
+            "genre" : "Fantasy",
+            "price" : "₹15.50",
+            "publisher" : "Houghton Mifflin"
+
+        },
+        {
+            "id" : "2",
+            "name" : "The Land Before Time",
+            "author" : "Alon Moore",
+            "genre" : "Fantasy",
+            "price" : "₹12.50",
+            "publisher" : "Houghton Mifflin"
+
+        },
+        {
+            "id" : "3",
+            "name" : "Rich Dad Poor Dad",
+            "author" : "Robert Kiosaki",
+            "genre" : "financial",
+            "price" : "₹25.50",
+            "publisher" : "american books"
+
+        },
+        {
+            "id" : "4",
+            "name" : "Think and Grow Rich",
+            "author" : "Nepolean Hill",
+            "genre" : "Self Development",
+            "price" : "₹25.50",
+            "publisher" : "Finger Print"
+
+        }
+    ]
+}

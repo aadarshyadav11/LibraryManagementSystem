@@ -10,6 +10,12 @@ app.get('/',(req,res)=>{
     })
 })
 
+// app.all('*',(req,res) => {
+//     res.status(500).json({
+//         message: "Not implemented Yet !!"
+//     })
+// })
+
 
 const PORT = 8080;
 app.listen(PORT, ()=>{
