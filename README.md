@@ -45,6 +45,6 @@ GET: get all issued books with their fine amount
 
 ## commands
 - npm init
+- npm install / npm i    (to install node modules and packeges) 
 - npm i express   (dependency)
 - npm i nodemon --save-dev  (dependency with flag)
-- 
