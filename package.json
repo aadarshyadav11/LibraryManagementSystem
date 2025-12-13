@@ -1,0 +1,27 @@
+{
+  "name": "lms",
+  "version": "1.0.0",
+  "description": "This is Library Management System App",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "start" : "node index.js",
+    "dev" : "nodemon index.js"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/aadarshyadav11/LibraryManagementSystem.git"
+  },
+  "author": "Aadarsh Yadav",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/aadarshyadav11/LibraryManagementSystem/issues"
+  },
+  "homepage": "https://github.com/aadarshyadav11/LibraryManagementSystem#readme",
+  "dependencies": {
+    "express": "^5.2.1"
+  },
+  "devDependencies": {
+    "nodemon": "^3.1.11"
+  }
+}
