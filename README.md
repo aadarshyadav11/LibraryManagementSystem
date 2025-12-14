@@ -7,7 +7,7 @@
 GET: get all the list of the users in the system
 POST: create/register a new user in the system
 
-## /users/{is}
+## /users/{id}
 GET: get a user by their ID
 PUT: Updating a user by their ID
 DELETE: Deleting a user by their ID(check if the user still has an issued book && is their any fine/penalty to be collected)
