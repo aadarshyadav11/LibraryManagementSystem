@@ -38,7 +38,7 @@
             "name" : "Cook",
             "surname" : "John",
             "email" : "cookjohn56@gmail.com",
-            "subscriptionType" : "Premium",
+            "subscriptionType" : "premium",
             "subscriptionDate" : "25/10/2025"
         }
     ]
