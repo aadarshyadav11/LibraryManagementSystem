@@ -2,9 +2,15 @@ const express = require('express')
 // const {users} = require('./data/users.json');
 // const {books} = require('./data/books.json');
 
+const dotenv = require('dotenv')
+const DbConnection = require('./databaseConnection.js')
+
 const usersRouter = require('./routes/users.js');
 const booksRouter = require('./routes/books.js')
 
+
+dotenv.config();
+DbConnection();
 const app = express();
 
 //middleware to pass JSON bodies
