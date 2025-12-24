@@ -48,3 +48,14 @@ GET: get all issued books with their fine amount
 - npm install / npm i    (to install node modules and packeges) 
 - npm i express   (dependency)
 - npm i nodemon --save-dev  (dependency with flag)
+    hu9hjn6ol.;lyo6a35
+- npm i mongoose 
+- npm i mongodb (driver)
+- npm i dotenv
+
+## MVC Architecture
+    >> M : Model (structure of your mongoDB)
+    >> V : View (frontend)
+    >> C : Controllers (Brain / Logic of a route)
+
+## DTO (Data Transfer Object)
